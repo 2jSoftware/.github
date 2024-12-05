@@ -1,4 +1,3 @@
-# .gitignore
 # 2jSoftware
 ## Cleveland's Premier Software Solutions Partner
 
