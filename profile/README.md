@@ -1,5 +1,5 @@
 # 2jSoftware  
-**Cleveland-Born, Open-Source Driven**  
+**Based in Cleveland, Built on Open-Source**  
 *Building Truly Open AI Tools — No gimmicks, No confusing wording, OPEN.*  
 
 ---
