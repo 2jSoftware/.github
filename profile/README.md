@@ -1,40 +1,48 @@
-# 2jSoftware
-## Cleveland's Premier Software Solutions Partner
-
-## About Us
-2jSoftware creates custom software solutions for Northeast Ohio businesses. We combine modern technology with local support to solve real business problems.
-
-## What We Do
-
-### Consultation
-We help businesses plan and improve their software systems. Our team brings years of experience to help you make the right technology decisions.
-
-### Cross-Platform Development
-We build applications that work everywhere - web, mobile, and desktop. Your customers get a seamless experience no matter how they connect.
-
-### Custom Development
-We create software that fits your exact needs:
-- Custom business applications
-- Integration with existing systems
-- Database solutions
-- Scalable web platforms
-
-## Why Choose Us
-
-- **Local Knowledge**: We understand Cleveland businesses
-- **Custom Solutions**: Software built specifically for your needs
-- **Modern Technology**: Future-proof solutions that last
-- **Direct Support**: Fast, local response when you need help
-
-## Our Process
-1. We listen to your needs
-2. We design a solution
-3. We build your software
-4. We ensure it works perfectly
-5. We provide ongoing support
-
-## Next Steps
-Visit our website to learn more about how we can help your business grow with custom software solutions.
+# 2jSoftware  
+**Cleveland-Born, Open-Source Driven**  
+*Building Truly Open AI Tools — No gimmicks, No confusing wording, OPEN.*  
 
 ---
-Copyright © 2024 2jSoftware
+
+## 🔥 Our Mission  
+We’re done with corporate "openwashing." Closed APIs pretending to be open? We're over that.  
+**We build (and open-source) tools to democratize frontier AI:**  
+- **Public by default** — Models, training data, code. No proprietary locks.  
+- **Scalable & community-owned** — From startups to research labs, deploy anywhere.  
+- **Ethical & transparent** — Governance by developers, not shareholders.  
+
+---
+
+## 🛠 What We Build  
+
+### Open AI Training Framework  
+- **Pre-training & fine-tuning** for text, multimodal, and custom models  
+- **Data synthesis pipelines** — Clean, ethical datasets for any use case  
+- **One-click deployment** — Run locally or scale to cloud clusters  
+
+### Developer-First Tools  
+- **Open evaluation suites** — Benchmark models without corporate bias  
+- **Collaboration platforms** — Built for distributed teams and researchers  
+- **Modular libraries** — Plug into existing workflows, no vendor lock-in  
+
+---
+
+## 🤝 Why Us?  
+
+- **Local roots, global vision** — Cleveland-founded, solving problems that scale  
+- **Built for developers** — Tools we actually use ourselves  
+- **Venture-backed ambition** — Scaling infrastructure, not selling out  
+
+---
+
+## 🌍 Join the Movement  
+
+**Developers, researchers, and ethical VCs—let’s rebuild AI.**  
+
+- **Contribute code**: [GitHub](https://github.com/2jsoftware)
+- **VC Partnerships**: justin@yanke.codes
+
+---
+
+**Open Source. Open Governance. Open Future.**  
+© 2024 2jSoftware | [GitHub](https://github.com/2jsoftware)  
