@@ -5,33 +5,32 @@
 ---
 
 ## 🔥 Our Mission  
-We’re done with corporate "openwashing." Closed APIs pretending to be open? We're over that.  
-**We build (and open-source) tools to democratize frontier AI:**  
-- **Public by default** — Models, training data, code. No proprietary locks.  
-- **Scalable & community-owned** — From startups to research labs, deploy anywhere.  
-- **Ethical & transparent** — Governance by developers, not shareholders.  
+We’re done with corporate "openwashing." Closed-up proprietary companies pretending to be open? We're over that. 
+**We build (and open-source) tools to help democratize frontier AI:**
+- **Public** — Models we make- these will include all training data, code. No proprietary locks.
+- **Ethical & transparent** — Governance by developers, not shareholders.
 
 ---
 
 ## 🛠 What We Build  
 
-### Open AI Training Framework  
-- **Pre-training & fine-tuning** for text, multimodal, and custom models  
-- **Data synthesis pipelines** — Clean, ethical datasets for any use case  
-- **One-click deployment** — Run locally or scale to cloud clusters  
-
 ### Developer-First Tools  
 - **Open evaluation suites** — Benchmark models without corporate bias  
 - **Collaboration platforms** — Built for distributed teams and researchers  
-- **Modular libraries** — Plug into existing workflows, no vendor lock-in  
+- **Modular libraries** — Plug into existing workflows, no vendor lock-in
+
+### Websites
+- **Experienced software development**
+
+### Anything else
+- **We're entering a new age** — we're empowered with capable tooling that allows us to rapidly adapt to new knowledge, domains, and more.
 
 ---
 
 ## 🤝 Why Us?  
 
-- **Local roots, global vision** — Cleveland-founded, solving problems that scale  
-- **Built for developers** — Tools we actually use ourselves  
-- **Venture-backed ambition** — Scaling infrastructure, not selling out  
+- **Humble roots, global vision** — Cleveland-founded, solving problems that help society
+- **Built for developers, Built for a new world** — Tools we actually use ourselves  
 
 ---
 
@@ -40,7 +39,7 @@ We’re done with corporate "openwashing." Closed APIs pretending to be open? We
 **Developers, researchers, and ethical VCs—let’s rebuild AI.**  
 
 - **Contribute code**: [GitHub](https://github.com/2jsoftware)
-- **VC Partnerships**: justin@yanke.codes
+- **Contact us**: justin@yanke.codes
 
 ---
 
