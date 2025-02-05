@@ -1,14 +1,16 @@
 # 2jSoftware  
 **Based in Cleveland, Built on Open-Source**  
-*Building Truly Open AI Tools — No gimmicks, No confusing wording, OPEN.*  
+*Building Truly Open AI Tools and software — No gimmicks.*
 
 ---
 
 ## 🔥 Our Mission  
 We’re done with corporate "openwashing." Closed-up proprietary companies pretending to be open? We're over that. 
 **We build (and open-source) tools to help democratize frontier AI:**
-- **Public** — Models we make- these will include all training data, code. No proprietary locks.
-- **Ethical & transparent** — Governance by developers, not shareholders.
+- **Public** — Models we make: these will include all training data, code. No proprietary locks.
+- **Ethical & transparent** — Governance by developers and society, not shareholders or such influence.
+- **Helpful software** — One of our many passions is building useful and creative software to achieve goals and solve problems.
+- **Exploring** — We're tinkerers at heart and have a passion for learning new things and applying ourself even outside of the software domain.
 
 ---
 
