@@ -1,49 +1,57 @@
-# 2jSoftware  
-**Based in Cleveland, Built on Open-Source**  
-*Building Truly Open AI Tools and software — No gimmicks.*
+# Yanke Software LLC
+
+## Professional Software Development Solutions
+
+Yanke Software LLC is a Cleveland-based software development company specializing in creating tailored technology solutions for businesses of all sizes. Founded by Justin Yanke, we leverage our technical expertise to solve complex business challenges through innovative software.
+
+## Our Approach
+
+We believe in:
+
+- **Practical Solutions**: Building software that addresses real business needs
+- **Clean Code**: Creating maintainable, well-structured codebases
+- **Client Partnerships**: Working closely with clients to understand their unique requirements
+- **Technology Empowerment**: Helping businesses leverage technology to drive success
+
+## Services
+
+- Custom Software Development
+- Web Application Development
+- Mobile Solutions
+- Legacy System Modernization
+- Technical Consultation
+- Software Architecture Design
+
+## Technologies
+
+Our team works with a variety of technologies including:
+
+```
+Frontend        Backend         Database        DevOps
+--------        -------         --------        ------
+HTML/CSS        Node.js         PostgreSQL      Docker
+JavaScript      Python          MongoDB         Kubernetes
+React           C#/.NET         MySQL           CI/CD Pipelines
+Vue.js          Java            SQL Server      AWS/Azure
+TypeScript      PHP             Redis           Railway
+```
+
+## Projects
+
+Our portfolio showcases our commitment to quality and innovation. Each project represents our dedication to creating software that delivers measurable business value.
+
+## Get In Touch
+
+Looking to work with us? Contact information:
+
+- **Location**: Cleveland, Ohio
+- **Website**: [2j.software](https://2j.software)
+- **Email**: justin@yanke.codes
+
+## About the Founder
+
+Justin Yanke is a software developer focused on creating effective technology solutions for businesses. With experience across multiple industries, Justin helps companies leverage technology to drive growth and efficiency.
 
 ---
 
-## 🔥 Our Mission  
-We’re done with corporate "openwashing." Closed-up proprietary companies pretending to be open? We're over that. 
-**We build (and open-source) tools to help democratize frontier AI:**
-- **Public** — Models we make: these will include all training data, code. No proprietary locks.
-- **Ethical & transparent** — Governance by developers and society, not shareholders or such influence.
-- **Helpful software** — One of our many passions is building useful and creative software to achieve goals and solve problems.
-- **Exploring** — We're tinkerers at heart and have a passion for learning new things and applying ourself even outside of the software domain.
-
----
-
-## 🛠 What We Build  
-
-### Developer-First Tools  
-- **Open evaluation suites** — Benchmark models without corporate bias  
-- **Collaboration platforms** — Built for distributed teams and researchers  
-- **Modular libraries** — Plug into existing workflows, no vendor lock-in
-
-### Websites
-- **Experienced software development**
-
-### Anything else
-- **We're entering a new age** — we're empowered with capable tooling that allows us to rapidly adapt to new knowledge, domains, and more.
-
----
-
-## 🤝 Why Us?  
-
-- **Humble roots, global vision** — Cleveland-founded, solving problems that help society
-- **Built for developers, Built for a new world** — Tools we actually use ourselves  
-
----
-
-## 🌍 Join the Movement  
-
-**Developers, researchers, and ethical VCs—let’s rebuild AI.**  
-
-- **Contribute code**: [GitHub](https://github.com/2jsoftware)
-- **Contact us**: justin@yanke.codes
-
----
-
-**Open Source. Open Governance. Open Future.**  
-© 2024 2jSoftware | [GitHub](https://github.com/2jsoftware)  
+© 2025 Yanke Software LLC. All rights reserved.
